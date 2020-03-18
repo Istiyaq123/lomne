@@ -1,2 +1,0 @@
-# lomne
-Created with CodeSandbox
